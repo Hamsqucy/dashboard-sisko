@@ -1,6 +1,6 @@
 # Website Dashboard School Information System
 
-*Sebuah website dashboard sederhana yang dibuat menggunakan dashboard template Admin LTE dengan bantuan PHP, Bootstrap, dan MySQL.*
+*Sebuah website dashboard sederhana yang dibuat menggunakan dashboard template Admin LTE dengan bantuan PHP, Javascript, Bootstrap, dan MySQL.*
 
 ## Features
 - Log In
@@ -11,4 +11,10 @@
 - Delete Data
 - Print Data
 
-
+## Technologies
+- [VisualStudioCode]
+- [XAMPP]
+- [PHP]
+- [Javascript]
+- [Bootstrap]
+- [MySQL]
