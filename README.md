@@ -70,5 +70,7 @@ http://localhost/phpmyadmin
 http://localhost/dashboard-sisko/
 ```
 
+*Note: Adjust the XAMPP port used*
+
 ## Credit
 > Ilham Alqudsi | Web Developer
