@@ -19,3 +19,20 @@
 - `Bootstrap`
 - `MySQL`
 
+## Documentation
+1. Login Page
+
+2. Main Page
+
+3. Read (Table) Page
+
+4. Create View
+
+5. Update View
+
+6. Print View 
+
+## Installation
+
+## Credit
+> Ilham Alqudsi | Web Developer
