@@ -12,9 +12,10 @@
 - Print Data
 
 ## Technologies
-- [VisualStudioCode]
-- [XAMPP]
-- [PHP]
-- [Javascript]
-- [Bootstrap]
-- [MySQL]
+- `Visual Studio Code`
+- `XAMPP`
+- `PHP`
+- `Javascript`
+- `Bootstrap`
+- `MySQL`
+
