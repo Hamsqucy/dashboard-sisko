@@ -51,7 +51,7 @@
 https://github.com/Hamsqucy/dashboard-sisko.git
 ```
 
-2. Masukkan Ke Dalam Htdocs
+2. Masukkan Ke Dalam Folder Htdocs
 ```
 C:\xampp\htdocs
 ```
@@ -64,7 +64,7 @@ http://localhost/phpmyadmin
 ```
 5. Masukkan URL Ini Pada Browser
 ```
-http://localhost/sisko/
+http://localhost/dashboard-sisko/
 ```
 
 ## Credit
