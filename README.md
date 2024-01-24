@@ -21,7 +21,7 @@
 
 ## Documentation
 1. Login Page
-<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/login.png" width="100%">
+<img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/login.png">
 
 2. Main Page
 
