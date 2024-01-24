@@ -4,7 +4,7 @@
 
 ## Features
 - Log In
-- Sign In
+- Side Bar Main Page
 - Create Data
 - Read Data
 - Update Data
@@ -33,6 +33,26 @@
 6. Print View 
 
 ## Installation
+1. Clone Repository Github Ini
+```
+https://github.com/Hamsqucy/dashboard-sisko.git
+```
+
+2. Masukkan Ke Dalam Htdocs
+```
+C:\xampp\htdocs
+```
+
+3. Buka XAMPP dan nyalakan Apache serta MySQL
+
+4. Buka phpmyadmin dan Buat Database serta Import File Database yang ada pada Folder `database` yang bernama `sisko_db.sql`
+```
+http://localhost/phpmyadmin
+```
+5. Masukkan URL Ini Pada Browser
+```
+http://localhost/sisko/
+```
 
 ## Credit
 > Ilham Alqudsi | Web Developer
