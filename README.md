@@ -19,6 +19,13 @@
 - `Bootstrap`
 - `MySQL`
 
+## Account
+*Gunakan Akun Ini Untuk Akses Website*
+
+|Username|Password|
+| --- | --- |
+| admin | website123 |
+
 ## Documentation
 1. Login Page
 <img src="https://github.com/Hamsqucy/dashboard-sisko/blob/master/img/login.png">
